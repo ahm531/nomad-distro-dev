@@ -6,3 +6,7 @@
 	url = https://github.com/nomad-coe/electronic-parsers.git
 [submodule "packages/nomad-measurements"]
 	path = packages/nomad-measurements
+[submodule "packages/events_form"]
+	path = packages/events_form
+[submodule "packages/nomad-material-processing"]
+	path = packages/nomad-material-processing
