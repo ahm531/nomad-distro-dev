@@ -4,6 +4,3 @@
 [submodule "packages/events_form"]
 	path = packages/events_form
 
-[submodule "packages/nomad-training-resources"]
-	path = packages/nomad-training-resources
-	url = https://github.com/siamakn/nomad-training-resources.git
